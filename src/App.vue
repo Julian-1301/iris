@@ -11,7 +11,7 @@
         <RouterLink to="/demo">Demo</RouterLink>
         <RouterLink to="/privacy">Privacy</RouterLink>
       </nav>
-      <div class="nav-badge">v0.1 — edu only</div>
+      <div class="nav-badge">v0.1 - edu only</div>
     </div>
   </header>
 
